@@ -12,5 +12,5 @@ class ProductSerializer(serializers.ModelSerializer):
             "description",
             "price",
             "get_image",
-            "get_thumbmail",
+            "get_thumbnail",
         )
